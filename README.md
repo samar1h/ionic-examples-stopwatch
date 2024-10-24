@@ -1,2 +1,2 @@
-# samar1h.github.io-ionic-examples-stopwatch
+# ionic-stopwatch
 A simple Stopwatch PWA made using ionic &amp; angular ❤️
